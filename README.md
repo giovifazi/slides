@@ -1,5 +1,5 @@
 # slides
-My presentations, also called slaiz 
+My presentations, also called "le slaiz" 
 
 # tesi triennale presentazione (it)
 Presentazione della tesi di laurea triennale
